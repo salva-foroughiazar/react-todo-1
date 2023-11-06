@@ -1,0 +1,67 @@
+.container {
+  width: 500px;
+  margin: 15px auto;
+}
+
+.form input {
+  border: 1px solid #eee;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  margin-right: 8px;
+  padding: 5px;
+}
+
+.form button {
+  color: #fff;
+  background-color: #db7093;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.form {
+  border-bottom: 1px solid #ccc;
+  margin: 15px 0;
+  padding: 15px 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+.item {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+  position: relative;
+}
+
+.delete {
+  color: #fff;
+  background-color: #db7093;
+  border: 1px solid #db7093;
+  border-radius: 5px;
+  margin-left: 20px;
+  padding: 4px;
+  position: absolute;
+  right: 0;
+}
+
+.item span {
+  text-align: justify;
+  font-size: 14px;
+  line-height: 1.9em;
+}
+
+#statusSelect {
+  background: none;
+  border: 3px solid #db7093;
+  border-radius: 6px;
+  margin-left: 15px;
+  padding: 5px;
+}
+
+#search-input {
+  width: 100%;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */

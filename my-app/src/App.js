@@ -16,7 +16,7 @@ const todos=[
     status: false,
   }
 ]
-function App() {
+export default function App() {
   return (
     <div ClassName="container">
         <div ClassName="form">
@@ -33,4 +33,4 @@ function App() {
   );
 }
 
-export default App;
+
